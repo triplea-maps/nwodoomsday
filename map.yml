@@ -1,0 +1,4 @@
+map_name: nwodoomsday
+games:
+- {game_name: NWO DoomsDay, file_name: Doomsday.xml}
+version: 0
